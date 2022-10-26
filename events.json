@@ -1,7 +1,7 @@
 [
 {"category":"School Calendar","color":"#001aff","end":"2022-09-03","files":[],"id":"2","isallday":true,"links":[],"location":"","start":"2022-09-03","summary":"","title":"LABOR DAY"},
 {"category":"School Calendar","color":"#001aff","end":"2022-08-02T08:45:00","files":[],"id":"7","isallday":false,"links":[],"location":"","start":"2022-08-02T08:45:00","summary":"August 2nd celebration","title":"New Event"},
-{"category":"","color":"","end":"2022-08-12","files":[[null]],"id":"12","isallday":true,"links":[],"location":"Sues Portal","start":"2022-08-12","summary":"is this event coming from pre-prod?","title":"Am I getting through"},
+{"category":"","color":"#5DA9E9","end":"2022-08-12","files":[[null]],"id":"12","isallday":true,"links":[],"location":"Sues Portal","start":"2022-08-12","summary":"is this event coming from pre-prod?","title":"Am I getting through"},
 {"category":"","color":"","end":"2022-08-12T17:00:00","files":[],"id":"9","isallday":false,"links":[],"location":"","start":"2022-08-12T16:00:00","summary":"","title":"NEW Events 8/12"},
 {"category":"","color":"","end":"2022-08-13","files":[],"id":"10","isallday":true,"links":[],"location":"","start":"2022-08-13","summary":"","title":"Another New Event"},
 {"category":"","color":"","end":"2022-08-15","files":[],"id":"11","isallday":true,"links":[],"location":"","start":"2022-08-15","summary":"","title":"And Another one"},
